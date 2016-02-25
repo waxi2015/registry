@@ -1,0 +1,5 @@
+Provider:
+Waxis\Registry\RegistryServiceProvider::class,
+
+Alias:
+'Registry'  => Waxis\Registry\Registry::class,
